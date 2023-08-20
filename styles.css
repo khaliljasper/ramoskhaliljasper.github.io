@@ -317,7 +317,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
     #header {
-        background-image: url(images/phone.png.png);
+        /*background-image: url(images/phone.png.png);*/
     }
     .header-text{
         margin-top: 100%;
@@ -374,6 +374,15 @@ nav .fa-solid{
         font-size: 14px;
     }
     .header-text {
-        margin-top: 110px;
+        margin-top: 38px;
+    }
+    #header {
+        height: 24vh;
+    }
+    #about, #portfolio {
+        padding-bottom: 0px;
+    }
+    #services, #portfolio {
+        padding-top: 0px;
     }
 }
