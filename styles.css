@@ -317,6 +317,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
     #header {
+        height: 24vh;
         /*background-image: url(images/phone.png.png);*/
     }
     .header-text{
@@ -375,9 +376,6 @@ nav .fa-solid{
     }
     .header-text {
         margin-top: 38px;
-    }
-    #header {
-        height: 24vh;
     }
     #about, #portfolio {
         padding-bottom: 0px;
