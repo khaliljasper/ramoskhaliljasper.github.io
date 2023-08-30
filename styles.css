@@ -383,4 +383,23 @@ nav .fa-solid{
     #services, #portfolio {
         padding-top: 0px;
     }
+    .services-list div{
+        padding: 24px;
+    }
+    .services-list div h2{
+        font-size: 20px;
+    }
+    .services-list div i{
+        font-size: 40px;
+    }
+    .btn {
+        margin: 15px auto;
+    }
+    .sub-title {
+        font-size: 30px;
+    }
+}
+
+.for-color {
+    color: #ff004f;
 }
