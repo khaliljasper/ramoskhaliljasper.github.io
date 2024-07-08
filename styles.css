@@ -370,9 +370,15 @@ nav .fas {
     .copyright{
         font-size: 14px;
     }
+    .major {
+        font-size: small;
+    }
 }
 #msg{
     color: #61b752;
     margin-top: -20px;
     display: block;
 }
+/* .major {
+    font-size: 20px;
+} */
